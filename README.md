@@ -25,16 +25,6 @@
 
 ---
 
-## 🚀 Host on GitHub Pages (Takes 1 Minute!)
-
-1. 📄 Save your compiler code as **`index.html`** in the root folder of your GitHub repository.
-2. ⚙️ Go to your repository's **Settings** $\rightarrow$ **Pages**.
-3. 📦 Under **Build and deployment**, set **Source** to **Deploy from a branch**.
-4. 🌿 Pick your **`main`** branch and **`/ (root)`** folder, then click **Save**.
-5. 🎉 Wait ~1 minute, open your live GitHub Pages link, and start coding!
-
----
-
 ## ⌨️ Handy Shortcuts
 
 * ▶️ **Run Code:** Tap **Run** or press `Ctrl + Enter` / `Cmd + Enter`
@@ -52,3 +42,4 @@
 ---
 
 ⭐ **If you like PyStudio, don't forget to star the repository!** 💖
+ 🧑‍💻 AyushCoderZ // DEVELOPER AND CODER 👑
